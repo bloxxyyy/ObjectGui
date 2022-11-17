@@ -1,0 +1,12 @@
+C:\Users\mnnop\source\repos\KokoObjectGui\KokoObjectGui\obj\Debug\net6.0\KokoObjectGui.csproj.AssemblyReference.cache
+C:\Users\mnnop\source\repos\KokoObjectGui\KokoObjectGui\obj\Debug\net6.0\KokoObjectGui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnnop\source\repos\KokoObjectGui\KokoObjectGui\obj\Debug\net6.0\KokoObjectGui.AssemblyInfoInputs.cache
+C:\Users\mnnop\source\repos\KokoObjectGui\KokoObjectGui\obj\Debug\net6.0\KokoObjectGui.AssemblyInfo.cs
+C:\Users\mnnop\source\repos\KokoObjectGui\KokoObjectGui\obj\Debug\net6.0\KokoObjectGui.csproj.CoreCompileInputs.cache
+C:\Users\mnnop\source\repos\KokoObjectGui\KokoObjectGui\bin\Debug\net6.0\KokoObjectGui.deps.json
+C:\Users\mnnop\source\repos\KokoObjectGui\KokoObjectGui\bin\Debug\net6.0\KokoObjectGui.dll
+C:\Users\mnnop\source\repos\KokoObjectGui\KokoObjectGui\bin\Debug\net6.0\KokoObjectGui.pdb
+C:\Users\mnnop\source\repos\KokoObjectGui\KokoObjectGui\obj\Debug\net6.0\KokoObjectGui.dll
+C:\Users\mnnop\source\repos\KokoObjectGui\KokoObjectGui\obj\Debug\net6.0\refint\KokoObjectGui.dll
+C:\Users\mnnop\source\repos\KokoObjectGui\KokoObjectGui\obj\Debug\net6.0\KokoObjectGui.pdb
+C:\Users\mnnop\source\repos\KokoObjectGui\KokoObjectGui\obj\Debug\net6.0\ref\KokoObjectGui.dll
